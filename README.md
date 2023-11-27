@@ -1,8 +1,12 @@
 # Kaggle-Competition-titanic
 Description :
+
+
 Hello ! 👋 I'm thrilled to share my debut in the world of Kaggle competitions with my solution for the Titanic: Machine Learning from Disaster competition. In this challenge, we are tasked with predicting which passengers were more likely to survive the tragic sinking of the Titanic.  Public Score: 0.79186
 
 Approach:
+
+
 Being my first Kaggle competition, I approached this problem with a combination of enthusiasm and a thirst for learning. My notebook walks through my journey, covering aspects of feature engineering, data preprocessing, and model selection. I've added detailed explanations and comments to make the code accessible for others and to showcase my learning process.
 
 Key Features:
